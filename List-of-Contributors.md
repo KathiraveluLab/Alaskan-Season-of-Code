@@ -1,6 +1,6 @@
 # Successful Contributors
 
-**Contributor: Ayush Ranjan**
+- **Contributor: Ayush Ranjan**
 
 Project: [DREAMS](https://github.com/KathiraveluLab/DREAMS) 
 
@@ -10,7 +10,7 @@ Start Date: May 22, 2025.
 
 Completion Date: September 5, 2025.
 
-**Contributor: Mohamed Abdullah**
+- **Contributor: Mohamed Abdullah**
 
 Project: [Beehive](https://github.com/KathiraveluLab/Beehive) 
 
